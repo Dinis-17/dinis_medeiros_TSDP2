@@ -1,9 +1,9 @@
 # Projectes de Frontend — Aixovall
 
-👨‍🎓 **Nom:** Dinis Medeiros
-🏫 **Centre:** Escola d’Aixovall
-🎓 **Cicle:** TSDP – Tècnic de Suport en Desenvolupament de Programari
-📚 **Mòdul:** Desenvolupament Frontend (UI / UX / JavaScript)
+- 👨‍🎓 **Nom:** Dinis Medeiros
+- 🏫 **Centre:** Escola d’Aixovall
+- 🎓 **Cicle:** TSDP – Tècnic de Suport en Desenvolupament de Programari
+- 📚 **Mòdul:** Desenvolupament Frontend (UI / UX / JavaScript)
 
 ---
 
